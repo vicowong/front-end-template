@@ -1,6 +1,6 @@
 # Substrate Front End Template
 
-This template allows you to create a front-end application that connects to a
+(vicowong) This template allows you to create a front-end application that connects to a
 [Substrate](https://github.com/paritytech/substrate) node back-end with minimal
 configuration. To learn about Substrate itself, visit the
 [Substrate Developer Hub](https://substrate.dev).
